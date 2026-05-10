@@ -10,16 +10,16 @@ The project also includes performance experiments to compare execution time on d
 
 ## Graph Representation
 The graph is implemented using an adjacency list:
-/Map<Integer, List<Integer>>
-/Each vertex stores its neighbors.
-/Example:
-/0 -> [1, 2]
-/1 -> [0, 3, 4]
-/This structure is efficient for sparse graphs and allows fast traversal.
-/Graph Structure (Example Output)
-/0 -> [1, 2]
-/1 -> [0, 3, 4]
-/2 -> [0, 5, 6]
+- Map<Integer, List<Integer>>
+- Each vertex stores its neighbors.
+Example:
+0 -> [1, 2]
+1 -> [0, 3, 4]
+This structure is efficient for sparse graphs and allows fast traversal.
+Graph Structure (Example Output)
+0 -> [1, 2]
+1 -> [0, 3, 4]
+2 -> [0, 5, 6]
 
 ---
 
