@@ -10,7 +10,6 @@ The project also includes performance experiments to compare execution time on d
 
 ## Graph Representation
 The graph is implemented using an adjacency list:
-```java
 Map<Integer, List<Integer>>
 Each vertex stores its neighbors.
 Example:
