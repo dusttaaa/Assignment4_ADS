@@ -39,10 +39,12 @@ DFS Traversal: 0 1 3 7 4 2 5 8 6 9
 ## Experimental Results
 The program was tested on three graph sizes:
 
-Graph Size	BFS Time	DFS Time
-10 vertices	391,200 ns	223,500 ns
-30 vertices	996,000 ns	913,900 ns
-100 vertices	2,370,500 ns	1,937,400 ns
+| Graph Size   | BFS Time     | DFS Time     |
+| ------------ | ------------ | ------------ |
+| 10 vertices  | 391,200 ns   | 223,500 ns   |
+| 30 vertices  | 996,000 ns   | 913,900 ns   |
+| 100 vertices | 2,370,500 ns | 1,937,400 ns |
+
 ---
 
 ## Observations
