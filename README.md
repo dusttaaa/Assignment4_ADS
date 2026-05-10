@@ -43,7 +43,6 @@ Graph Size	BFS Time	DFS Time
 10 vertices	391,200 ns	223,500 ns
 30 vertices	996,000 ns	913,900 ns
 100 vertices	2,370,500 ns	1,937,400 ns
-
 ---
 
 ## Observations
