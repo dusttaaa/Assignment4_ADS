@@ -45,6 +45,7 @@ The program was tested on three graph sizes:
 | 30 vertices  | 996,000 ns   | 913,900 ns   |
 | 100 vertices | 2,370,500 ns | 1,937,400 ns |
 
+
 ---
 
 ## Observations
