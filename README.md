@@ -21,7 +21,9 @@ Graph Structure (Example Output)
 0 -> [1, 2]
 1 -> [0, 3, 4]
 2 -> [0, 5, 6]
-...
+
+---
+
 ## Traversal Algorithms
 
 ### Breadth-First Search (BFS)
